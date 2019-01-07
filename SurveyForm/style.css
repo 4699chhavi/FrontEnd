@@ -1,0 +1,83 @@
+title
+{
+  
+}
+html,body
+{
+  margin:15px;
+  min-width:250px;
+  background-color:#FFD8D8;
+  text-align:center;
+  font-family:Courier;
+  font-size:18px;
+
+    
+}
+#main
+{
+  text-align:center;
+  background-color:#EAEFF6;
+  width:75%;
+  height:80%;
+  margin:10px 100px 10px 100px;
+  border:0px solid;
+  border-radius:10px;
+  padding-top:10px;
+  display:grid;
+}
+.label
+{
+  margin:10px;
+  display:inline-block;
+  width:40%;
+  height:20%;
+  text-align:right;
+}
+
+.right-box
+{
+  margin:10px;
+  display:inline-block;
+  width:48%;
+  height:20%;
+  text-align:left;
+  
+}
+.text-box
+{
+  display:inline-block;
+  width:280px;
+  height:30px;
+  text-align:left;
+  padding:5px;
+  border-color:#C1C6CD;
+  border-radius:4px;
+}
+.dropdown {
+  height: 35px;
+  width: 140px;
+  padding: 5px;
+  margin: 10px;  
+  margin-top: 5px;
+  border: 1px solid #c0c0c0;
+  border-radius: 2px;
+}
+#submit
+{
+  background-color:dodgerblue;
+  height:40px;
+  width:120px;
+  align:center;
+  margin-top:20px;
+  margin-bottom:40px;
+}
+
+.list-style
+{
+  margin-top:-10px;
+  padding-left:0px;
+  line-height:30px;
+  display:grid;
+  align-items:end;
+  
+}
